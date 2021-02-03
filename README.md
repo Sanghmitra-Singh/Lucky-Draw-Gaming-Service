@@ -31,10 +31,15 @@ The Smart Contract will have an owner which will be able to:
 *Setup*:-
 
 1.Raffle date.
+
 2.Prize (initially just a text description. Real money in the future automatically paid by the contract).
+
 3.Close the tickets sale.
+
 4.List ticket's owners emails.
+
 5.Draw a ticket.
+
 6.Re-draw ticket if previous ticket's owner is not present. Mark previous ticket as drawn annuled
 
 *Limitations*:-
